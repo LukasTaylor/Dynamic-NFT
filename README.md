@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Hardhat Project to Learn Creation of a Dynamic NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project demonstrates the development and deployment of a smart contract. Using solidity an NFT is created on the polygon testnet Mumbai. It's also verified on polyscan and OpenSea after contract depolyment.
